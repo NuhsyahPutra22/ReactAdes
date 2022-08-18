@@ -1,0 +1,71 @@
+/* This page is consistent throughout all pages */
+
+/* Navigation Bar */
+.navbar {
+    background-color: #5B7485;
+    color: white;
+}
+
+.nav-item {
+    color: white;
+    font-size: 20px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+    background-color: #5B7485;
+    color: white;
+    text-align: center;
+}
+
+/* Content Header */
+.content-Header {
+    text-align: center;
+}
+
+.content-Header h1 {
+    color: #EF3340;
+    font-weight: bold;
+}
+
+/* Table */
+table {
+    border-radius: 20px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+table th {
+    background-color: #89cff0;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+table tbody {
+    font-size: 12px;
+}
